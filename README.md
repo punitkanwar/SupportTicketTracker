@@ -259,7 +259,7 @@ Tests cover: utility functions (status colors, priority colors, ID formatting).
 **Backend fails to connect to MongoDB**
 - Ensure MongoDB service is running: `net start MongoDB` (Windows)
 - Check your `MONGODB_URI` in `backend/.env`
-- Default: `mongodb://127.0.0.1:27017/resolvedesk`
+- Default: `mongodb://127.0.0.1:27017/support_ticket_tracker`
 
 **Frontend shows "Error loading data"**
 - Ensure the backend is running on port 5000
