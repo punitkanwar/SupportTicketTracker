@@ -30,7 +30,10 @@ A full-stack support ticket management platform built for internal support teams
 
 ---
 
-## Screenshots
+## Demo & Screenshots
+
+- **Live App:** [Open ResolveDesk Live](https://your-live-app-url.vercel.app)
+- **Video Walkthrough:** [Watch the ResolveDesk Demo on Loom](https://www.loom.com/share/3d73999636fd4ce19ddc78734cf73d04)
 
 ### Dashboard Preview
 [Ticket Dashboard]<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/79121fe0-c83a-4f37-b3c7-b86eb77a3115" />
